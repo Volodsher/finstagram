@@ -1,6 +1,10 @@
 header {
-  background-color: #244751;
-  color: #E8FDFF;
+  /* background-color: #244751; */
+  background-color: #77a6b3;
+  /* color: #E8FDFF; */
+  color: white;
+  position: fixed;
+  width: 100%;
 }
 
 /* header h1 {
@@ -21,6 +25,7 @@ body {
 main {
   background-color: white;
   padding: 16px;
+  padding-top: 100px;
 }
 
 .finstagram-post {

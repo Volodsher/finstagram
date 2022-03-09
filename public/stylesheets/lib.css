@@ -9,7 +9,8 @@ body, input {
 }
 
 a {
-  color: #8da7b8;
+  /* color: #8da7b8; */
+  color: white;
   text-decoration: none;
 }
 
